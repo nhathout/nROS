@@ -1,2 +1,2 @@
 # nROS
-Configurable Robot System (NeoROS)
+Configurable Robot System (NeoROS / MyBot)
